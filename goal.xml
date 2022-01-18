@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JPScore project="JPS-Project" version="0.8">
+  <goals>
+    <goal id="0" final="true" caption="goal1">
+      <polygon>
+        <vertex px="30" py="38.9" />
+        <vertex px="33" py="38.9" />
+        <vertex px="33" py="40.5" />
+        <vertex px="30" py="40.5" />
+        <vertex px="30" py="38.9" />
+      </polygon>
+    </goal>
+  </goals>
+</JPScore>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <JPScore project="JPS-Project" version="0.8">
+  <traffic_constraints>
+    <doors>
+      <door trans_id="0" state="open" />
+      <door trans_id="1" state="open" />
+      <door trans_id="2" state="open" />
+      <door trans_id="3" state="open" />
+      <door trans_id="4" state="open" />
+      <door trans_id="5" state="open" />
+      <door trans_id="6" state="open" />
+      <door trans_id="7" state="open" />
+      <door trans_id="8" state="open" />
+      <door trans_id="9" state="open" />
+      <door trans_id="10" state="open" />
+      <door trans_id="11" state="open" />
+      <door trans_id="12" state="open" />
+      <door trans_id="13" state="open" />
+      <door trans_id="14" state="open" />
+      <door trans_id="15" state="open" />
+      <door trans_id="16" state="open" />
+      <door trans_id="17" state="open" />
+      <door trans_id="18" state="open" />
+      <door trans_id="19" state="open" />
+      <door trans_id="20" state="open" />
+      <door trans_id="21" state="open" />
+      <door trans_id="22" state="open" />
+      <door trans_id="23" state="open" />
+      <door trans_id="24" state="open" />
+      <door trans_id="25" state="open" />
+      <door trans_id="26" state="open" />
+      <door trans_id="27" state="open" />
+      <door trans_id="28" state="open" />
+      <door trans_id="29" state="open" />
+    </doors>
+  </traffic_constraints>
+ </JPScore>
