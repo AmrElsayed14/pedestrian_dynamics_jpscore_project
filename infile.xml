@@ -8,10 +8,10 @@
         <geometry>geometry.xml</geometry>
         <logfile>log.txt</logfile>
         <show_statistics>true</show_statistics>
-        <output path="results_without_lecture_goal_05" />
+        <output path="results_without_lecture_goal_scenario_02_06" />
         <!-- trajectories file and format -->
         <trajectories format="plain" fps="8">
-            <file location="trajectories_scenario_01.xml" />
+            <file location="trajectories_scenario_02.xml" />
         </trajectories>
     </header>
     <!-- traffic information: e.g closed doors -->

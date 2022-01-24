@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <JPScore project="JPS-Project" version="0.8">
+    <events update_frequency="2" update_radius="100" agents_color_by_knowledge="true">
+        <event time="40" state="close" id="0" />
+        <event time="0" state="open" id="1" />
+        <event time="0" state="open" id="2" />
+        <event time="10" state="close" id="3" />
+        <event time="0" state="open" id="4" />
+        <event time="0" state="open" id="5" />
+        <event time="0" state="open" id="6" />
+        <event time="10" state="close" id="8" />
+        <event time="10" state="close" id="7" />
+        <event time="0" state="open" id="9" />
+        <event time="0" state="open" id="10" />
+        <event time="10" state="close" id="11" />
+        <event time="10" state="close" id="12" />
+        <event time="0" state="open" id="13" />
+        <event time="10" state="close" id="14" />
+        <event time="10" state="close" id="15" />
+        <event time="0" state="open" id="16" />
+        <event time="10" state="close" id="17" />
+        <event time="0" state="open" id="18" />
+        <event time="0" state="open" id="19" />
+        <event time="0" state="open" id="20" />
+        <event time="10" state="close" id="21" />
+        <event time="0" state="open" id="22" />
+        <event time="0" state="open" id="23" />
+        <event time="10" state="open" id="24" />
+        <event time="0" state="open" id="25" />
+        <event time="0" state="open" id="26" />
+        <event time="0" state="open" id="27" />
+        <event time="0" state="open" id="28" />
+        <event time="0" state="open" id="29" />
+    </events>
+</JPScore>
