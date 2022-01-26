@@ -8,10 +8,10 @@
         <geometry>geometry.xml</geometry>
         <logfile>log.txt</logfile>
         <show_statistics>true</show_statistics>
-        <output path="results_without_lecture_goal_scenario_02_06" />
+        <output path="results_goal_06" />
         <!-- trajectories file and format -->
         <trajectories format="plain" fps="8">
-            <file location="trajectories_scenario_02.xml" />
+            <file location="trajectories_scenario_01.xml" />
         </trajectories>
     </header>
     <!-- traffic information: e.g closed doors -->
@@ -35,12 +35,12 @@
             ! in the main hall
             <group group_id="0" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="0" number="30"/> 
             ! lecture room
-            <group group_id="1" agent_parameter_id="1" router_id="1" goal_id= "0" room_id ="3" number="25"/>
-            <group group_id="1" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="3" number="25"/>
+            <group group_id="1" agent_parameter_id="1" router_id="1" goal_id= "0" room_id ="3" number="100"/>
+            <group group_id="1" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="3" number="200"/>
 
             ! Mensa
-            <group group_id="2" agent_parameter_id="1" router_id="1" goal_id= "0" room_id ="6" number="50"/>
-            <group group_id="2" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="6" number="100"/>
+            <group group_id="2" agent_parameter_id="1" router_id="1" goal_id= "0" room_id ="6" number="25"/>
+            <group group_id="2" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="6" number="75"/>
             ! Spuelküche
             <group group_id="3" agent_parameter_id="1" router_id="1" goal_id= "-1" room_id ="7" number="15"/>
             ! offices
